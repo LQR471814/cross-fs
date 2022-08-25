@@ -1,6 +1,6 @@
 ## cross-fs
 
-> common filesystem operations, cross platform.
+> cross platform filesystem operations
 
 ### documentation
 
