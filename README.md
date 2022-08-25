@@ -1,4 +1,4 @@
-## cross-fs
+## crossfs
 
 > cross platform filesystem operations
 
